@@ -110,7 +110,7 @@ QHeaderView::section {
       <item>
        <widget class="QLineEdit" name="lineEdit">
         <property name="placeholderText">
-         <string>Search by name </string>
+         <string>🔍Search by name </string>
         </property>
        </widget>
       </item>
@@ -123,7 +123,7 @@ QHeaderView::section {
     font-weight: bold;
     min-width: 70px;
     color: black; /* Ensure button text is black */
-    background-color: #FFFFE0; /* Light Blue/Pastel Accent */
+    background-color: #9deb9b ; /* Light Blue/Pastel Accent */
 	border: 1px solid #CCCCCC;
 }
 </string>
